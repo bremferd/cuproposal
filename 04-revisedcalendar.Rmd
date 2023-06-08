@@ -1,0 +1,28 @@
+# Revised Calendar
+
+Here I outline the conclusions of my two main points:
+1. A revision of my transfer credit profile.
+2. A completion plan for my incomplete credits.
+
+With these in mind, I believe that my degree can be completed within a semester of study.
+
+
+## Proposed Transfer Credit Usage
+
+```{r proposedtransfercredits, echo = FALSE}
+datatable(X_working_on_Proposed_Transfer_Credit_Usage_Sheet1)
+
+
+
+```
+
+## Finish Incomplete Courses
+
+```{r completionplan}
+
+datatable(Cornell_Incompletes_3_Month_Plan)
+
+```
+## Final Requirements
+
+

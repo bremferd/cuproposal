@@ -1,0 +1,43 @@
+# Transfer
+
+
+## Purpose Of These Tables:
+- A limiting factor for my transfer credit usage is that I am already at the allowed 60 credit capacity.
+- I want to illustrate that we have room for removing credits from my transfer profile which do not fill any requirements.
+- This makes room to add credits from my international experience to the transfer profile, which was not considered initially by mistake.
+- This will also make room for other additions, preferably from my existing credits, but also from local colleges if necessary.  Many courses which I have already taken, as I now understand, have close equivalents in Cornell and in CALS.
+
+
+
+
+## Total Eligible Transfer Credits
+These are all of my courses which qualify for transfer, which recieved a passing grade.
+
+```{r totaltransfer}
+echo=FALSE
+
+datatable(Total_Transfer_Requirement_Breakdown_Total_Transfer_Credits_Available)
+```
+
+## Current Transfer Profile
+These are the courses which Cornell has already approved.
+
+``` {r currenttransfer}
+echo=FALSE
+
+datatable(Total_Transfer_Requirement_Breakdown_Current_Transfer_Profile)
+
+```
+
+## Courses Currently Filling Requirements
+These are the courses which are currently filling degree requirements.  Note that my main point is the difference between currently approved credits and requirement-filling credits.
+
+```{r reqfilltransfer}
+echo=FALSE
+
+datatable(Total_Transfer_Requirement_Breakdown_Filling_Requirements)
+```
+
+
+
+

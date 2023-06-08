@@ -1,0 +1,17 @@
+
+# Completing My Incompletes
+
+
+## First Leave Incompletes 2015
+- Shown in the table below, I was approved by professors to complete courses from my first leave.  I was advised by student services that I would not be able to do said work, and that I should not petition as it would be a waste of time.  I retook some courses, and allowed others to remain F's on my transcript.
+- Being that I now understand that my first leave should have been a medical leave, and knowing now that others have been given the exception, I would like to either finish the courses, or have them taken off of my transcripts and have my federal aid refunded.
+
+## Second Leave Incompletes 2020
+- This leave was in great part due to the conditions around the pandemic, but it was also due to medical conditions, and a denial of loans due to my unrecognized independent student status.  I lost my home for the second time at Cornell, and am now petitioning to finish those courses.
+
+```{r incompletes}
+
+datatable(Cornell_Incompletes_Incompletes)
+
+```
+

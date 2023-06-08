@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a template for creating an [HTML GitBook style](https://bookdown.org/yihui/bookdown/html.html#gitbook-style) **[bookdown](https://github.com/rstudio/bookdown)** book, [hosted on GitHub Pages](https://bookdown.org/yihui/bookdown/github.html). It is based on the one created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. It assumes you know how to use git/GitHub and R Markdown, and have some familiarity with the **bookdown** package. If you don't, the package author Yihue Xie's RStudio webinar *[Introduction to Bookdown (R Package)](https://www.youtube.com/watch?v=dVqVscgwSpw)* provides an excellent introduction. In addition, check out [*bookdown: Authoring Books and Technical Documents with R Markdown*](https://bookdown.org/yihui/bookdown), also by Yihui Xie, both for the content and the format--it is itself a **bookdown** book.
 If you need help getting git/GitHub to work with RStudio see: [Happy Git and GitHub for the useR](https://happygitwithr.com/) by Jenny Bryan.
 
@@ -66,3 +67,21 @@ A demo video showing how to create a **bookdown book** following these instructi
 
 Please consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
+=======
+# Brief Explanation
+
+There are lots of emails, assignments, files, and approvals that need to happen and I am trying to put them all in one place.
+
+I think that this will give people involved in the project a way to send information, request changes, and see updates on my progress.
+
+Thank you to everyone for your patience, and I hope that we can get through it soon!
+
+<3
+b
+
+
+
+
+*This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.*
+
+>>>>>>> a5e4273 (Still Working, but here's a good outline)

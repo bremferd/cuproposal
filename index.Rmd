@@ -1,9 +1,43 @@
 --- 
+<<<<<<< HEAD
 title: "YOUR TITLE HERE"
 author: "YOUR NAME HERE"
+=======
+title: "Cornell Proposal"
+author: "Bremen McKinney"
+>>>>>>> a5e4273 (Still Working, but here's a good outline)
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+<<<<<<< HEAD
 # Down the rabbit-hole
 
+=======
+# Introduction
+
+Hi there!  I have a lot of transcripts coming from various universities, and I am trying to make a better way to track my meetings, todos, and academic information.  My hope is that this will become a proposal and a calendar that will finally get me through my undergraduate degree!
+
+
+## Incoming Transfer Credits
+
+- I was a Gilman Scholar at the Universidad Austral de Chile.  The course credits were not included in my transfer due to a miscommunication.  These should count for my international experience, and be part of my transfer profile.
+- Writing courses were not initially utilized to fulfil my writing requirements.  There are many to choose from!  Let's reevaluate!
+- Other courses were not considered, which I believe have suitable equivalents both in CALS and out.
+- In this section I have gathered my credits to explain.
+
+## Completing My Incompletes
+
+- First Leave Incompletes (2015): My first leave should have been medical.  Upon return, I had professor approval to finish, but these credits were not allowed to be completed due to an advising error.
+- Second Leave Incompletes (2020): These should be considered due to the conditions of the times, as well as financial and disability considerations.
+- Here I outline a project plan for completing these courses.
+
+## Final Revised Calendar
+
+- All this considered, I believe that I can complete my degree with Cornell in one semester.  I outline my plan in this section.
+
+
+## Diagnosis and Letters of Support
+
+- I was recognized as as a student with a disability while at Cornell, and I finally have a diagnosis and medication.  My providers were kind enough to offer their support here.
+>>>>>>> a5e4273 (Still Working, but here's a good outline)
