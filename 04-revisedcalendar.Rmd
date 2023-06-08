@@ -18,7 +18,7 @@ datatable(X_working_on_Proposed_Transfer_Credit_Usage_Sheet1)
 
 ## Finish Incomplete Courses
 
-```{r completionplan}
+```{r completionplan, echo=FALSE}
 
 datatable(Cornell_Incompletes_3_Month_Plan)
 

@@ -1,19 +1,11 @@
 --- 
-<<<<<<< HEAD
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-=======
+
 title: "Cornell Proposal"
 author: "Bremen McKinney"
->>>>>>> a5e4273 (Still Working, but here's a good outline)
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-<<<<<<< HEAD
-# Down the rabbit-hole
-
-=======
 # Introduction
 
 Hi there!  I have a lot of transcripts coming from various universities, and I am trying to make a better way to track my meetings, todos, and academic information.  My hope is that this will become a proposal and a calendar that will finally get me through my undergraduate degree!
@@ -40,4 +32,4 @@ Hi there!  I have a lot of transcripts coming from various universities, and I a
 ## Diagnosis and Letters of Support
 
 - I was recognized as as a student with a disability while at Cornell, and I finally have a diagnosis and medication.  My providers were kind enough to offer their support here.
->>>>>>> a5e4273 (Still Working, but here's a good outline)
+

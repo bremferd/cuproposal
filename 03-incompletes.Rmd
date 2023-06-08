@@ -9,7 +9,8 @@
 ## Second Leave Incompletes 2020
 - This leave was in great part due to the conditions around the pandemic, but it was also due to medical conditions, and a denial of loans due to my unrecognized independent student status.  I lost my home for the second time at Cornell, and am now petitioning to finish those courses.
 
-```{r incompletes}
+```{r incompletes, echo = FALSE}
+
 
 datatable(Cornell_Incompletes_Incompletes)
 

@@ -1,13 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-<<<<<<< HEAD
-edit: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/main/%s
-view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/main/%s
-=======
 edit: https://github.com/bremferd/cuproposal/edit/main/%s
 view: https://github.com/bremferd/cuproposal/blob/main/%s
->>>>>>> a5e4273 (Still Working, but here's a good outline)
 language:
   ui:
     chapter_name: "Chapter "
